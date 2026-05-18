@@ -300,9 +300,17 @@ toggle.name = "Switch to light mode"
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
-#[[project.extra.social]]
-#icon = "fontawesome/brands/github"
-#link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/frag-engine"
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+name = "Barnabé"
+link = "https://www.linkedin.com/in/barnabe-bonnet/"
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+name = "Anaël"
+link = "https://www.linkedin.com/in/adam-joly/"
 
 # ----------------------------------------------------------------------------
 # In this section you can configure the Markdown extensions that are used when
